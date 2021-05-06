@@ -11,7 +11,7 @@ How to download and play the game?
 
 3- Right click on the zip folder and choose the option "Extract here". It will generate a folder with the same name as the .ZIP file.
 
-4- Once inside that folder, there will be 2 more ZIP files that you have to extract. Use the same method as before with the "extract here" button.
+4- Once inside that folder, there will be 2 more ZIP files that you have to extract. Use the same method as before with the "extract here" button. Once the files are extracted, DELETE the ZIP files and stay with the folder ones.
 
 VERY IMPORTANT: USE THE "EXTRACT HERE" BUTTON AND ONLY THAT ONE. IF NOT IT WILL GENERATE OVERLAPPING FOLDERS THAT MAY CAUSE ISSUES.
 
