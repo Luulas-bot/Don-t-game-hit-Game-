@@ -15,7 +15,7 @@ The game is written on python. It uses the module pygame, which is a great modul
 
 ### Some things to tell
 The game may have some bugs due to the fact that is my first ever project. If you find one you can either do a pull request making a solution to it, or you can just e-mail me telling what the bug is about and then I will fix it.
-The game is not really well programmed because it is my first prject ever. Anyways I don't want to correct or simplify or even clean the project because i feel it has more value to just stay the way it is.
+The game is not really well programmed but anyways, I don't want to correct or simplify or even clean the project because i feel it has more value to just stay the way it is.
 
 # Enjoy!
 
